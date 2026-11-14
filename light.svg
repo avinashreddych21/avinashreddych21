@@ -1,0 +1,355 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Avinash Reddy - Developer Profile Dashboard">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient_light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="50%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#EEF2FF"/>
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGlow_light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7">
+        <animate attributeName="stop-color" values="#0284C7;#6366F1;#059669;#0284C7" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#6366F1">
+        <animate attributeName="stop-color" values="#6366F1;#059669;#0284C7;#6366F1" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#059669">
+        <animate attributeName="stop-color" values="#059669;#0284C7;#6366F1;#059669" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Scanline Gradient -->
+    <linearGradient id="scanlineGrad_light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#0284C7" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#6366F1" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="gridPattern_light" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#E2E8F0" stroke-width="0.6" stroke-opacity="0.6"/>
+    </pattern>
+
+    <!-- Soft Drop Shadow -->
+    <filter id="cardShadow_light" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#0F172A" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .ascii {
+      font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      font-size: 11.2px;
+      letter-spacing: 1.8px;
+      line-height: 12px;
+      fill: #0369A1;
+    }
+  </style>
+
+  <!-- Outer Canvas Background -->
+  <rect x="0" y="0" width="1180" height="610" rx="24" fill="url(#bgGradient_light)"/>
+  <rect x="0" y="0" width="1180" height="610" rx="24" fill="url(#gridPattern_light)"/>
+
+  <!-- Outer Frame Animated Border -->
+  <rect x="12" y="12" width="1156" height="586" rx="20" fill="none" stroke="url(#borderGlow_light)" stroke-width="1.5" stroke-opacity="0.65"/>
+
+  <!-- ============================================================== -->
+  <!-- LEFT COLUMN: VISUAL.MAP / IDENTITY (x=30, y=30, w=410, h=550)  -->
+  <!-- ============================================================== -->
+  <g id="left-panel">
+    <!-- Panel Glass Container -->
+    <rect x="30" y="30" width="410" height="550" rx="16" fill="#FFFFFF" fill-opacity="0.85" stroke="#E2E8F0" stroke-width="1" filter="url(#cardShadow_light)"/>
+
+    <!-- Header Chrome -->
+    <circle cx="52" cy="52" r="5" fill="#EF4444"/>
+    <circle cx="68" cy="52" r="5" fill="#F59E0B"/>
+    <circle cx="84" cy="52" r="5" fill="#10B981"/>
+    <text x="106" y="56" class="mono" font-size="12" fill="#64748B">avinash@developer:~</text>
+    <text x="420" y="56" text-anchor="end" class="mono" font-size="11" font-weight="bold" fill="#0284C7">[ VISUAL.MAP ]</text>
+    <line x1="30" y1="72" x2="440" y2="72" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- ASCII Portrait Frame -->
+    <rect x="48" y="88" width="374" height="328" rx="10" fill="#F1F5F9" fill-opacity="0.7" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- Corner Reticles for Sci-Fi / Terminal Feel -->
+    <path d="M 54 100 L 54 94 L 60 94" fill="none" stroke="#0284C7" stroke-width="1.5" opacity="0.7"/>
+    <path d="M 416 100 L 416 94 L 410 94" fill="none" stroke="#0284C7" stroke-width="1.5" opacity="0.7"/>
+    <path d="M 54 404 L 54 410 L 60 410" fill="none" stroke="#0284C7" stroke-width="1.5" opacity="0.7"/>
+    <path d="M 416 404 L 416 410 L 410 410" fill="none" stroke="#0284C7" stroke-width="1.5" opacity="0.7"/>
+
+    <!-- Subtitle Inside Portrait Frame -->
+    <text x="64" y="110" class="mono" font-size="9" letter-spacing="1.5" fill="#94A3B8">STREAM // BIO_ASCII_01</text>
+    <text x="406" y="110" text-anchor="end" class="mono" font-size="9" letter-spacing="1" fill="#059669">● LIVE</text>
+
+    <!-- ASCII Art Text Block -->
+    <text x="235" y="132" text-anchor="middle" class="ascii" xml:space="preserve">
+          <tspan x="235" dy="0">                                      </tspan>
+          <tspan x="235" dy="12.0">                                      </tspan>
+          <tspan x="235" dy="12.0">          %%*::::·......·+#%%         </tspan>
+          <tspan x="235" dy="12.0">          #+···::·.......··*@         </tspan>
+          <tspan x="235" dy="12.0">          +....··:::·......:%         </tspan>
+          <tspan x="235" dy="12.0">          ·...·+****++::·...%         </tspan>
+          <tspan x="235" dy="12.0">          ·.:+*##%%%##*++:.·%         </tspan>
+          <tspan x="235" dy="12.0">          *·+:··:*#*:·::+.:%         </tspan>
+          <tspan x="235" dy="12.0">          #:+::..:#:.:.··+·::         </tspan>
+          <tspan x="235" dy="12.0">          ::*++::+%*:++***:·:#        </tspan>
+          <tspan x="235" dy="12.0">          :·*###**%#+*%##*·:*         </tspan>
+          <tspan x="235" dy="12.0">          *::*###:+:·*%#*+·+#         </tspan>
+          <tspan x="235" dy="12.0">          %#·:+::::··::++·:%%         </tspan>
+          <tspan x="235" dy="12.0">          %%#·::+***+::+·.###         </tspan>
+          <tspan x="235" dy="12.0">          %%%#·:++**+++·.+%##         </tspan>
+          <tspan x="235" dy="12.0">          #%#%:..·::··..·*%%#         </tspan>
+          <tspan x="235" dy="12.0">          ##%#++:·...·:++:#%#         </tspan>
+          <tspan x="235" dy="12.0">          #%%#:***++++**+·*#*         </tspan>
+          <tspan x="235" dy="12.0">               +*****+*+:·*           </tspan>
+          <tspan x="235" dy="12.0">              #:+*+:+**:::#           </tspan>
+          <tspan x="235" dy="12.0">               #+*::+*:++#%           </tspan>
+          <tspan x="235" dy="12.0">            *+.:#*+·:::*#%%           </tspan>
+          <tspan x="235" dy="12.0">            %%::%##:··*%@%:***        </tspan>
+          <tspan x="235" dy="12.0">           #%%:·*%%%·##*::*%%%%       </tspan>
+    </text>
+
+    <!-- Animated Scanline -->
+    <line x1="48" y1="90" x2="422" y2="90" stroke="url(#scanlineGrad_light)" stroke-width="2" opacity="0.75">
+      <animate attributeName="y1" values="92;412;92" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="92;412;92" dur="5s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- Terminal Prompt & Status Block Below Portrait -->
+    <g transform="translate(50, 430)">
+      <text x="0" y="14" class="mono" font-size="11" fill="#0284C7">~/profile $ <tspan fill="#64748B">./status --telemetry</tspan></text>
+      
+      <!-- Telemetry chips -->
+      <g transform="translate(0, 28)">
+        <rect x="0" y="0" width="176" height="24" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+        <circle cx="10" cy="12" r="3.5" fill="#059669"/>
+        <text x="20" y="16" class="mono" font-size="10" fill="#1E293B">SYSTEM : ONLINE</text>
+
+        <rect x="184" y="0" width="182" height="24" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+        <circle cx="194" cy="12" r="3.5" fill="#0284C7"/>
+        <text x="204" y="16" class="mono" font-size="10" fill="#1E293B">CAMPUS : SRM AP</text>
+      </g>
+
+      <g transform="translate(0, 58)">
+        <rect x="0" y="0" width="176" height="24" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+        <circle cx="10" cy="12" r="3.5" fill="#6366F1"/>
+        <text x="20" y="16" class="mono" font-size="10" fill="#1E293B">MAJOR : CSE DEGREE</text>
+
+        <rect x="184" y="0" width="182" height="24" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+        <circle cx="194" cy="12" r="3.5" fill="#059669"/>
+        <text x="204" y="16" class="mono" font-size="10" fill="#1E293B">CORE  : ML + FULLSTACK</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ============================================================== -->
+  <!-- RIGHT COLUMN: SYSTEM.INFO (x=460, y=30, w=690, h=550)          -->
+  <!-- ============================================================== -->
+  <g id="right-panel">
+    <!-- Panel Glass Container -->
+    <rect x="460" y="30" width="690" height="550" rx="16" fill="#FFFFFF" fill-opacity="0.85" stroke="#E2E8F0" stroke-width="1" filter="url(#cardShadow_light)"/>
+
+    <!-- Header Chrome -->
+    <circle cx="482" cy="52" r="5" fill="#EF4444"/>
+    <circle cx="498" cy="52" r="5" fill="#F59E0B"/>
+    <circle cx="514" cy="52" r="5" fill="#10B981"/>
+    <text x="536" y="56" class="mono" font-size="12" fill="#64748B">system.info --profile=production</text>
+    <text x="1130" y="56" text-anchor="end" class="mono" font-size="11" font-weight="bold" fill="#059669">[ STATUS: READY ]</text>
+    <line x1="460" y1="72" x2="1150" y2="72" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- Primary Identity & Rotating Role -->
+    <g transform="translate(485, 106)">
+      <text x="0" y="0" class="sans" font-size="26" font-weight="800" fill="#0F172A" letter-spacing="-0.5">Avinash Reddy</text>
+      
+      <!-- Terminal Rotating Role Line -->
+      <g transform="translate(0, 24)">
+        <text x="0" y="0" class="mono" font-size="13" fill="#0284C7">target.role <tspan fill="#64748B">=</tspan> </text>
+        
+        <!-- Rotating Text 1: Software Engineer -->
+        <g opacity="1">
+          <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.30;0.33;0.66;0.96;0.99;1" dur="12s" repeatCount="indefinite"/>
+          <text x="108" y="0" class="mono" font-size="13" font-weight="bold" fill="#059669">"Software Engineer"</text>
+        </g>
+        
+        <!-- Rotating Text 2: Full-Stack Developer -->
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.33;0.36;0.63;0.66;0.99;1" dur="12s" repeatCount="indefinite"/>
+          <text x="108" y="0" class="mono" font-size="13" font-weight="bold" fill="#0284C7">"Full-Stack Developer"</text>
+        </g>
+        
+        <!-- Rotating Text 3: ML & AI Engineer -->
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.66;0.69;0.96;0.99;1;1" dur="12s" repeatCount="indefinite"/>
+          <text x="108" y="0" class="mono" font-size="13" font-weight="bold" fill="#6366F1">"ML &amp; AI Engineer"</text>
+        </g>
+
+        <!-- Blinking Cursor -->
+        <rect x="285" y="-11" width="7" height="14" fill="#0284C7">
+          <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+
+    <!-- Info Grid Table -->
+    <g transform="translate(485, 154)" class="mono" font-size="11.5">
+      <!-- Row 1: Location -->
+      <text x="0" y="0" fill="#94A3B8">&gt; LOCATION</text>
+      <text x="100" y="0" fill="#64748B">:</text>
+      <text x="116" y="0" fill="#0F172A">India</text>
+
+      <!-- Row 2: Degree -->
+      <text x="0" y="20" fill="#94A3B8">&gt; EDUCATION</text>
+      <text x="100" y="20" fill="#64748B">:</text>
+      <text x="116" y="20" fill="#0F172A">B.Tech in Computer Science &amp; Engineering</text>
+
+      <!-- Row 3: Campus -->
+      <text x="0" y="40" fill="#94A3B8">&gt; CAMPUS</text>
+      <text x="100" y="40" fill="#64748B">:</text>
+      <text x="116" y="40" fill="#0F172A">SRM University AP</text>
+
+      <!-- Row 4: Focus -->
+      <text x="0" y="60" fill="#94A3B8">&gt; FOCUS</text>
+      <text x="100" y="60" fill="#64748B">:</text>
+      <text x="116" y="60" fill="#0F172A">Machine Learning · Full-Stack Systems · Data Structures</text>
+    </g>
+
+    <!-- ========================================================== -->
+    <!-- SECTION 1: CORE TECH STACK                                 -->
+    <!-- ========================================================== -->
+    <g transform="translate(485, 240)">
+      <text x="0" y="0" class="mono" font-size="10" font-weight="bold" letter-spacing="1.5" fill="#0284C7">// 01. CORE ENGINEERING STACK</text>
+      
+      <!-- Row 1 of Pills -->
+      <g transform="translate(0, 10)">
+        <!-- Python -->
+        <g transform="translate(0, 0)">
+          <rect width="70" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#38BDF8"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">Python</text>
+        </g>
+        <!-- Java -->
+        <g transform="translate(78, 0)">
+          <rect width="58" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#F97316"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">Java</text>
+        </g>
+        <!-- C++ -->
+        <g transform="translate(144, 0)">
+          <rect width="54" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#0284C7"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">C++</text>
+        </g>
+        <!-- JavaScript -->
+        <g transform="translate(206, 0)">
+          <rect width="90" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#FACC15"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">JavaScript</text>
+        </g>
+        <!-- SQL -->
+        <g transform="translate(304, 0)">
+          <rect width="52" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#38BDF8"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">SQL</text>
+        </g>
+        <!-- Git -->
+        <g transform="translate(364, 0)">
+          <rect width="52" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#EF4444"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">Git</text>
+        </g>
+      </g>
+
+      <!-- Row 2 of Pills -->
+      <g transform="translate(0, 38)">
+        <!-- Scikit-Learn -->
+        <g transform="translate(0, 0)">
+          <rect width="100" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#F97316"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">Scikit-Learn</text>
+        </g>
+        <!-- Pandas -->
+        <g transform="translate(108, 0)">
+          <rect width="70" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#A855F7"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">Pandas</text>
+        </g>
+        <!-- NumPy -->
+        <g transform="translate(186, 0)">
+          <rect width="68" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#38BDF8"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">NumPy</text>
+        </g>
+        <!-- Node.js -->
+        <g transform="translate(262, 0)">
+          <rect width="72" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#22C55E"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">Node.js</text>
+        </g>
+        <!-- MongoDB -->
+        <g transform="translate(342, 0)">
+          <rect width="82" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <circle cx="10" cy="11" r="3" fill="#10B981"/>
+          <text x="20" y="15" class="mono" font-size="10" fill="#1E293B">MongoDB</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- ========================================================== -->
+    <!-- SECTION 2: FEATURED ENGINEERING PROJECTS                   -->
+    <!-- ========================================================== -->
+    <g transform="translate(485, 328)">
+      <text x="0" y="0" class="mono" font-size="10" font-weight="bold" letter-spacing="1.5" fill="#0284C7">// 02. FEATURED ENGINEERING PROJECTS</text>
+      
+      <!-- Project 1: Hybrid Recommendation System -->
+      <g transform="translate(0, 16)">
+        <text x="0" y="0" class="mono" font-size="12" font-weight="bold" fill="#6366F1">◈ Hybrid Recommendation System</text>
+        <text x="0" y="15" class="sans" font-size="11" fill="#64748B">Multi-model recommender combining collaborative &amp; content-based filtering with telemetry analytics.</text>
+      </g>
+
+      <!-- Project 2: Ananta - The Clock -->
+      <g transform="translate(0, 56)">
+        <text x="0" y="0" class="mono" font-size="12" font-weight="bold" fill="#0284C7">◈ Ananta — The Clock</text>
+        <text x="0" y="15" class="sans" font-size="11" fill="#64748B">Interactive web-based clock, precision timer, and productivity interface built with vanilla JS &amp; modern CSS.</text>
+      </g>
+
+      <!-- Project 3: Shopez Web Platform -->
+      <g transform="translate(0, 96)">
+        <text x="0" y="0" class="mono" font-size="12" font-weight="bold" fill="#059669">◈ Shopez Web Platform</text>
+        <text x="0" y="15" class="sans" font-size="11" fill="#64748B">Full-stack dynamic shopping application featuring reactive catalog, state management &amp; cart checkout flows.</text>
+      </g>
+    </g>
+
+    <!-- ========================================================== -->
+    <!-- SECTION 3: CONNECT PROTOCOLS                               -->
+    <!-- ========================================================== -->
+    <g transform="translate(485, 474)">
+      <text x="0" y="0" class="mono" font-size="10" font-weight="bold" letter-spacing="1.5" fill="#0284C7">// 03. CONNECT PROTOCOLS</text>
+      
+      <g transform="translate(0, 14)">
+        <!-- GitHub Pill -->
+        <g transform="translate(0, 0)">
+          <rect width="178" height="26" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <text x="12" y="17" class="mono" font-size="10.5" fill="#0284C7">GH  <tspan fill="#1E293B">/avinashreddych21</tspan></text>
+        </g>
+
+        <!-- LinkedIn Pill -->
+        <g transform="translate(188, 0)">
+          <rect width="178" height="26" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <text x="12" y="17" class="mono" font-size="10.5" fill="#6366F1">IN  <tspan fill="#1E293B">/in/avinash-reddy</tspan></text>
+        </g>
+
+        <!-- Mail Pill -->
+        <g transform="translate(376, 0)">
+          <rect width="264" height="26" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+          <text x="12" y="17" class="mono" font-size="10.5" fill="#059669">EML <tspan fill="#1E293B">avinashreddych2006@gmail.com</tspan></text>
+        </g>
+      </g>
+    </g>
+
+  </g>
+</svg>
