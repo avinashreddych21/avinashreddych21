@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060D1E" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:avinashreddych2006@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Mail-Get_in_Touch-00D2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060D1E" alt="Direct Email" />
+  <a href="mailto:avinash_chinthalacheruvu@srmap.edu.in">
+    <img src="https://img.shields.io/badge/Academic_Mail-Get_in_Touch-00D2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060D1E" alt="Academic Email" />
   </a>
   &nbsp;
   <a href="https://github.com/avinashreddych21" target="_blank">
@@ -39,60 +39,59 @@
 
 ### ⚡ Core Engineering & Operating System
 
-> **Computer Science & Engineering undergraduate at SRM University AP.** Dedicated to building at the intersection of **Machine Learning & Predictive Systems** (Python/Scikit-Learn), **performant full-stack architectures** (Node.js/JavaScript), and **algorithmic problem solving** (Java/C++). Passionate about high-throughput backends, clean component design, and translating complex mathematical logic into production-ready software.
+> **Computer Science & Engineering undergraduate at SRM University, Amaravati (Current CGPA: 9.1 / 10).** Strong foundation in **Object-Oriented Programming (OOP)**, **Data Structures & Algorithms (DSA)**, and **Full-Stack Web Development**. Proficient in **C, C++, Python, JavaScript, and PHP/MySQL**, with proven experience designing modular console utilities, database-driven web platforms, and solving algorithmic problems with high computational efficiency.
 
 <br/>
 
 ---
 
-### 🚀 Flagship Deployments & Projects
+### 🚀 Verified Projects & Deployments
 
 | Project | System Architecture & Capabilities | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **📊 Hybrid Recommendation System** | Advanced recommender combining collaborative & content-based algorithmic filtering with behavioral telemetry & automated analytical reporting | `Python` `Scikit-Learn` `Pandas` | [Source ↗](https://github.com/avinashreddych21) |
-| **⏰ Ananta — The Clock** | Ultra-responsive digital timekeeper and productivity interface featuring precision scheduling event loops and modern CSS styling | `JavaScript` `HTML5` `CSS3` | [Source ↗](https://github.com/avinashreddych21/Ananta---The-Clock) &bull; [Demo ↗](https://github.com/avinashreddych21/Ananta---The-Clock) |
-| **🛒 Shopez Web Platform** | Full-scale e-commerce web platform engineered with reactive product catalogs, local storage cart states, and seamless checkout flows | `JavaScript` `CSS3` `Node.js` | [Source ↗](https://github.com/avinashreddych21) |
+| **📚 Course Description Management System** | Console-based academic management tool engineered with C++ and Object-Based Education (OBE) framework for automated course outcome analysis | `C++` `OOP` `File I/O` | [Source ↗](https://github.com/avinashreddych21) |
+| **📊 Student Record Management System** | Academic grade analysis and student record tracking utility designed for efficient querying, record mutations, and relational validation | `C++` `DBMS` `Relational Logic` | [Source ↗](https://github.com/avinashreddych21) |
+| **⏰ Ananta — The Clock** | Interactive modern digital clock, precision timer, and productivity interface with fluid UI event synchronization and responsive CSS styling | `JavaScript` `HTML5` `CSS3` | [Source ↗](https://github.com/avinashreddych21/Ananta---The-Clock) &bull; [Demo ↗](https://github.com/avinashreddych21/Ananta---The-Clock) |
+| **🔄 Circular Queue Implementation** | Low-level queue management simulation tool demonstrating contiguous memory allocation, pointer arithmetic, and FIFO synchronization | `C` `Data Structures` `Algorithms` | [Source ↗](https://github.com/avinashreddych21) |
 
 <br/>
 
 ---
 
-### 🛠️ Technical Stack & Tooling Matrix
+### 🛠️ Technical Stack & Tooling Matrix (from Resume)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   &nbsp;
-  <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <br/>
 
 | Technical Domain | Tools & Core Competencies |
 | :--- | :--- |
-| **Languages & Core** | Python 3, Java 17, C++20, C, JavaScript (ESNext), SQL |
-| **Machine Learning & Data** | Scikit-Learn, Pandas, NumPy, Data Preprocessing, Evaluative Telemetry |
-| **Web Systems & Backend** | Node.js, Express.js, RESTful Architecture, HTML5, Modern CSS3 |
-| **Databases & DevOps** | MongoDB, MySQL, Git & GitHub Actions, VS Code, IntelliJ IDEA, Linux |
+| **Programming Languages** | C, C++, Python, JavaScript (ESNext), PHP |
+| **Web Development** | HTML5, CSS3, Bootstrap, JavaScript, PHP, Responsive Design |
+| **Databases** | MySQL, Database Management Systems (DBMS), MongoDB (Basics) |
+| **Core Competencies** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Problem Solving |
 
 <br/>
 
@@ -125,9 +124,9 @@
   <br/>
   <p><b>Let's engineer something meaningful together.</b></p>
   <a href="https://www.linkedin.com/in/avinash-reddy-b5ba6833a/" target="_blank"><b>Connect on LinkedIn ↗</b></a> &nbsp;&bull;&nbsp;
-  <a href="mailto:avinashreddych2006@gmail.com"><b>Direct Email ↗</b></a> &nbsp;&bull;&nbsp;
+  <a href="mailto:avinash_chinthalacheruvu@srmap.edu.in"><b>Academic Email ↗</b></a> &nbsp;&bull;&nbsp;
   <a href="https://github.com/avinashreddych21" target="_blank"><b>Explore Repositories ↗</b></a>
   <br/><br/>
-  <sub><code>SYS.ARCH // SRM UNIVERSITY AP · AMARAVATI // ARCHITECTED &amp; CRAFTED BY AVINASH REDDY</code></sub>
+  <sub><code>SYS.ARCH // SRM UNIVERSITY AMARAVATI (CGPA: 9.1/10) // ARCHITECTED &amp; CRAFTED BY AVINASH REDDY</code></sub>
   <br/><br/>
 </div>

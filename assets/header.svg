@@ -96,7 +96,7 @@
     <circle cx="74" cy="44" r="3.5" fill="#34D399" opacity="0.9" />
     <text class="mono hud-text" x="92" y="48" font-size="11" font-weight="600" fill="#94A3B8">SYS.ID: AR-2026 // KERNEL: ONLINE</text>
 
-    <!-- Animated Frequency Spectrum Visualizer (Live Audio / Telemetry Waves) -->
+    <!-- Animated Frequency Spectrum Visualizer (Live Telemetry Waves) -->
     <g transform="translate(380, 48)">
       <rect x="0" y="-8" width="2.5" height="10" fill="#00D2FF" rx="1">
         <animate attributeName="height" values="4;14;6;12;4" dur="1.2s" repeatCount="indefinite" />
@@ -116,8 +116,8 @@
       </rect>
     </g>
 
-    <!-- Geo Node Coordinates -->
-    <text class="mono" x="520" y="48" font-size="10" font-weight="500" fill="#64748B" letter-spacing="2">SRM UNIVERSITY AP · AMARAVATI (16.51°N, 80.51°E)</text>
+    <!-- Geo Node Coordinates & Academic Rank -->
+    <text class="mono" x="515" y="48" font-size="10" font-weight="500" fill="#64748B" letter-spacing="1.5">SRM UNIVERSITY AMARAVATI // CGPA: 9.1 / 10</text>
 
     <!-- Live Status Chip -->
     <rect x="764" y="32" width="144" height="24" rx="6" fill="#081024" stroke="#1E293B" stroke-width="1" />
@@ -136,7 +136,7 @@
   <g transform="translate(480, 0)">
     <!-- Tech Category Tagline -->
     <text class="mono" x="0" y="100" font-size="11" font-weight="600" fill="#00D2FF" text-anchor="middle" letter-spacing="4">
-      // INTELLIGENT SYSTEMS · FULL-STACK ARCHITECTURE
+      // COMPUTER SCIENCE &amp; SYSTEMS DEVELOPER
     </text>
 
     <!-- Full Hero Name with Precision Metallic Finish -->
@@ -156,21 +156,21 @@
       <g opacity="1">
         <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.30;0.33;0.66;0.96;0.99;1" dur="9s" repeatCount="indefinite" />
         <text class="mono" x="0" y="0" font-size="12" font-weight="500" fill="#94A3B8" text-anchor="middle" letter-spacing="2">
-          Machine Learning Pipelines <tspan fill="#00D2FF">◈</tspan> Predictive Analytics Engine
+          Data Structures &amp; Algorithms <tspan fill="#00D2FF">◈</tspan> C / C++ Systems Logic
         </text>
       </g>
       <!-- Role 2 -->
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;0.33;0.36;0.63;0.66;0.99;1" dur="9s" repeatCount="indefinite" />
         <text class="mono" x="0" y="0" font-size="12" font-weight="500" fill="#94A3B8" text-anchor="middle" letter-spacing="2">
-          Scalable Web Systems <tspan fill="#8B5CF6">◈</tspan> Reactive Full-Stack Development
+          Full-Stack Web Development <tspan fill="#8B5CF6">◈</tspan> JavaScript, PHP &amp; MySQL
         </text>
       </g>
       <!-- Role 3 -->
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.66;0.69;0.96;0.99;1;1" dur="9s" repeatCount="indefinite" />
         <text class="mono" x="0" y="0" font-size="12" font-weight="500" fill="#94A3B8" text-anchor="middle" letter-spacing="2">
-          Algorithmic Rigor <tspan fill="#10B981">◈</tspan> Data Structures &amp; Core Systems
+          Python Development <tspan fill="#10B981">◈</tspan> Object-Oriented Architecture
         </text>
       </g>
     </g>
@@ -183,36 +183,36 @@
   <!-- BOTTOM TELEMETRY HARDWARE MODULES                              -->
   <!-- ============================================================== -->
   <g>
-    <!-- Module 1: ML & Neural Data -->
+    <!-- Module 1: C & C++ -->
     <g transform="translate(44, 226)">
       <rect width="206" height="30" rx="5" fill="#050C1D" stroke="#0284C7" stroke-width="0.9" stroke-opacity="0.6" />
       <circle cx="14" cy="15" r="3" fill="#00D2FF" />
-      <text class="mono" x="24" y="19" font-size="9" font-weight="600" fill="#E0F2FE" letter-spacing="1">01 // ML &amp; NEURAL DATA</text>
-      <text class="mono" x="194" y="19" font-size="8" fill="#38BDF8" text-anchor="end">SCIKIT</text>
+      <text class="mono" x="24" y="19" font-size="9" font-weight="600" fill="#E0F2FE" letter-spacing="1">01 // C &amp; C++ (DSA)</text>
+      <text class="mono" x="194" y="19" font-size="8" fill="#38BDF8" text-anchor="end">CORE</text>
     </g>
 
-    <!-- Module 2: Full-Stack Web -->
+    <!-- Module 2: Python -->
     <g transform="translate(262, 226)">
       <rect width="206" height="30" rx="5" fill="#050C1D" stroke="#334155" stroke-width="0.9" />
       <circle cx="14" cy="15" r="3" fill="#818CF8" />
-      <text class="mono" x="24" y="19" font-size="9" font-weight="600" fill="#E2E8F0" letter-spacing="1">02 // FULL-STACK ENGINE</text>
-      <text class="mono" x="194" y="19" font-size="8" fill="#818CF8" text-anchor="end">NODE.JS</text>
+      <text class="mono" x="24" y="19" font-size="9" font-weight="600" fill="#E2E8F0" letter-spacing="1">02 // PYTHON 3</text>
+      <text class="mono" x="194" y="19" font-size="8" fill="#818CF8" text-anchor="end">OOP</text>
     </g>
 
-    <!-- Module 3: Systems & Algorithms -->
+    <!-- Module 3: Web Stack -->
     <g transform="translate(480, 226)">
       <rect width="206" height="30" rx="5" fill="#050C1D" stroke="#334155" stroke-width="0.9" />
       <circle cx="14" cy="15" r="3" fill="#34D399" />
-      <text class="mono" x="24" y="19" font-size="9" font-weight="600" fill="#E2E8F0" letter-spacing="1">03 // SYSTEMS &amp; CORE DSA</text>
-      <text class="mono" x="194" y="19" font-size="8" fill="#34D399" text-anchor="end">JAVA/C++</text>
+      <text class="mono" x="24" y="19" font-size="9" font-weight="600" fill="#E2E8F0" letter-spacing="1">03 // JS, HTML &amp; CSS</text>
+      <text class="mono" x="194" y="19" font-size="8" fill="#34D399" text-anchor="end">WEB</text>
     </g>
 
-    <!-- Module 4: Persistence & Ops -->
+    <!-- Module 4: MySQL & PHP -->
     <g transform="translate(698, 226)">
       <rect width="206" height="30" rx="5" fill="#050C1D" stroke="#334155" stroke-width="0.9" />
       <circle cx="14" cy="15" r="3" fill="#A78BFA" />
-      <text class="mono" x="24" y="19" font-size="9" font-weight="600" fill="#E2E8F0" letter-spacing="1">04 // DATA &amp; DEPLOYMENT</text>
-      <text class="mono" x="194" y="19" font-size="8" fill="#A78BFA" text-anchor="end">MONGODB</text>
+      <text class="mono" x="24" y="19" font-size="9" font-weight="600" fill="#E2E8F0" letter-spacing="1">04 // MYSQL, PHP &amp; MONGO</text>
+      <text class="mono" x="194" y="19" font-size="8" fill="#A78BFA" text-anchor="end">DBMS</text>
     </g>
   </g>
 </svg>
