@@ -100,9 +100,9 @@
 ### 📈 Real-Time GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=avinashreddych21&show_icons=true&include_all_commits=true&hide_border=true&bg_color=040816&title_color=00d2ff&text_color=94a3b8&icon_color=10b981" alt="Avinash's GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinashreddych21&theme=2077" alt="Avinash's GitHub Stats" height="195" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=avinashreddych21&hide_border=true&background=040816&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&stroke=1e293b&timezone=Asia/Kolkata" alt="Avinash's Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=avinashreddych21&hide_border=true&background=141321&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&stroke=1e293b&timezone=Asia/Kolkata" alt="Avinash's Streak" height="195" />
 </div>
 
 <br/>
