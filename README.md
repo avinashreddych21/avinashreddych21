@@ -1,34 +1,34 @@
 <div align="center">
 
-  <!-- Bespoke Engineering Hero Banner -->
-  <img src="./assets/header.svg" alt="Avinash Reddy - Hero Banner" width="100%" />
+  <!-- Autonomous Cybernetic Hero Banner -->
+  <img src="./assets/header.svg" alt="Avinash Reddy - Engineering Header" width="100%" />
 
   <br/><br/>
 
-  <!-- Curated Quick Navigation & Social Badges -->
+  <!-- Quick Transmission Protocols & Direct Links -->
   <a href="https://www.linkedin.com/in/avinash-reddy-b5ba6833a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B12" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060D1E" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:avinashreddych2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B12" alt="Email" />
+    <img src="https://img.shields.io/badge/Direct_Mail-Get_in_Touch-00D2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060D1E" alt="Direct Email" />
   </a>
   &nbsp;
   <a href="https://github.com/avinashreddych21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=080B12" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Repositories-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=060D1E" alt="GitHub Repos" />
   </a>
 
   <br/><br/>
 
-  <!-- Minimalist Profile Telemetry -->
-  <img src="https://komarev.com/ghpvc/?username=avinashreddych21&style=flat-square&color=F97316&labelColor=0E131F&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Hardware Telemetry Counters -->
+  <img src="https://komarev.com/ghpvc/?username=avinashreddych21&style=flat-square&color=00D2FF&labelColor=081024&label=SYSTEM+TELEMETRY" alt="Profile Telemetry" />
   &nbsp;
   <a href="https://github.com/avinashreddych21?tab=repositories">
-    <img src="https://img.shields.io/github/stars/avinashreddych21?style=flat-square&color=38BDF8&labelColor=0E131F&label=STARS&logo=github&logoColor=white" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/avinashreddych21?style=flat-square&color=38BDF8&labelColor=081024&label=STARS&logo=github&logoColor=white" alt="Stars" />
   </a>
   &nbsp;
   <a href="https://github.com/avinashreddych21?tab=followers">
-    <img src="https://img.shields.io/github/followers/avinashreddych21?style=flat-square&color=A855F7&labelColor=0E131F&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/avinashreddych21?style=flat-square&color=8B5CF6&labelColor=081024&label=NETWORK&logo=github&logoColor=white" alt="Followers" />
   </a>
 
 </div>
@@ -37,27 +37,27 @@
 
 ---
 
-### ✦ About & Core Focus
+### ⚡ Core Engineering & Operating System
 
-> **Computer Science & Engineering undergraduate at SRM University AP.** Building at the intersection of **Machine Learning & Predictive Systems** (Python/Scikit-Learn), **performant full-stack web platforms** (Node.js/JavaScript), and **algorithmic problem solving** (Java/C++). Focused on system scalability, clean software patterns, and engineering data-driven intelligent applications.
+> **Computer Science & Engineering undergraduate at SRM University AP.** Dedicated to building at the intersection of **Machine Learning & Predictive Systems** (Python/Scikit-Learn), **performant full-stack architectures** (Node.js/JavaScript), and **algorithmic problem solving** (Java/C++). Passionate about high-throughput backends, clean component design, and translating complex mathematical logic into production-ready software.
 
 <br/>
 
 ---
 
-### ✦ Featured Engineering Projects
+### 🚀 Flagship Deployments & Projects
 
-| Project | Highlights & Capabilities | Tech Stack | Links |
+| Project | System Architecture & Capabilities | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **📊 Hybrid Recommendation System** | Multi-model recommender combining collaborative & content-based filtering with behavioral telemetry & analytical reporting | `Python` `Scikit-Learn` `Pandas` | [Source ↗](https://github.com/avinashreddych21) |
-| **⏰ Ananta — The Clock** | High-precision interactive web clock, timer, and productivity interface with fluid UI event synchronization | `JavaScript` `HTML5` `CSS3` | [Source ↗](https://github.com/avinashreddych21/Ananta---The-Clock) &bull; [Demo ↗](https://github.com/avinashreddych21/Ananta---The-Clock) |
-| **🛒 Shopez Web Platform** | Full-scale e-commerce web platform featuring reactive product catalog, state management, and checkout flows | `JavaScript` `CSS3` `Node.js` | [Source ↗](https://github.com/avinashreddych21) |
+| **📊 Hybrid Recommendation System** | Advanced recommender combining collaborative & content-based algorithmic filtering with behavioral telemetry & automated analytical reporting | `Python` `Scikit-Learn` `Pandas` | [Source ↗](https://github.com/avinashreddych21) |
+| **⏰ Ananta — The Clock** | Ultra-responsive digital timekeeper and productivity interface featuring precision scheduling event loops and modern CSS styling | `JavaScript` `HTML5` `CSS3` | [Source ↗](https://github.com/avinashreddych21/Ananta---The-Clock) &bull; [Demo ↗](https://github.com/avinashreddych21/Ananta---The-Clock) |
+| **🛒 Shopez Web Platform** | Full-scale e-commerce web platform engineered with reactive product catalogs, local storage cart states, and seamless checkout flows | `JavaScript` `CSS3` `Node.js` | [Source ↗](https://github.com/avinashreddych21) |
 
 <br/>
 
 ---
 
-### ✦ Technical Stack & Competency
+### 🛠️ Technical Stack & Tooling Matrix
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -87,33 +87,33 @@
 
 <br/>
 
-| Domain | Technologies & Core Tools |
+| Technical Domain | Tools & Core Competencies |
 | :--- | :--- |
 | **Languages & Core** | Python 3, Java 17, C++20, C, JavaScript (ESNext), SQL |
 | **Machine Learning & Data** | Scikit-Learn, Pandas, NumPy, Data Preprocessing, Evaluative Telemetry |
 | **Web Systems & Backend** | Node.js, Express.js, RESTful Architecture, HTML5, Modern CSS3 |
-| **Databases & Tooling** | MongoDB, MySQL, Git & GitHub Actions, VS Code, IntelliJ IDEA, Linux |
+| **Databases & DevOps** | MongoDB, MySQL, Git & GitHub Actions, VS Code, IntelliJ IDEA, Linux |
 
 <br/>
 
 ---
 
-### ✦ GitHub Telemetry & Activity
+### 📈 Real-Time GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=avinashreddych21&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=080B12&title_color=f97316&text_color=94a3b8&icon_color=f97316" alt="Avinash's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=avinashreddych21&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=040816&title_color=00d2ff&text_color=94a3b8&icon_color=10b981" alt="Avinash's GitHub Stats" height="165" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=avinashreddych21&hide_border=true&background=080B12&ring=ea580c&fire=f97316&currStreakLabel=f97316&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&stroke=1e293b&timezone=Asia/Kolkata" alt="Avinash's Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=avinashreddych21&hide_border=true&background=040816&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b&stroke=1e293b&timezone=Asia/Kolkata" alt="Avinash's Streak" height="165" />
 </div>
 
 <br/>
 
-<!-- Interactive Contribution Grid Snake -->
+<!-- Interactive Quantum Contribution Grid Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avinashreddych21/avinashreddych21/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avinashreddych21/avinashreddych21/output/github-contribution-grid-snake.svg">
-    <img alt="Avinash's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/avinashreddych21/avinashreddych21/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="Avinash's Contribution Grid Snake" src="https://raw.githubusercontent.com/avinashreddych21/avinashreddych21/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -123,11 +123,11 @@
 
 <div align="center">
   <br/>
-  <p><b>Let's build something extraordinary together.</b></p>
+  <p><b>Let's engineer something meaningful together.</b></p>
   <a href="https://www.linkedin.com/in/avinash-reddy-b5ba6833a/" target="_blank"><b>Connect on LinkedIn ↗</b></a> &nbsp;&bull;&nbsp;
   <a href="mailto:avinashreddych2006@gmail.com"><b>Direct Email ↗</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/avinashreddych21" target="_blank"><b>Explore GitHub ↗</b></a>
+  <a href="https://github.com/avinashreddych21" target="_blank"><b>Explore Repositories ↗</b></a>
   <br/><br/>
-  <sub><code>SYS.STABLE // SRM UNIVERSITY AP · INDIA // CRAFTED WITH PRECISION BY AVINASH REDDY</code></sub>
+  <sub><code>SYS.ARCH // SRM UNIVERSITY AP · AMARAVATI // ARCHITECTED &amp; CRAFTED BY AVINASH REDDY</code></sub>
   <br/><br/>
 </div>

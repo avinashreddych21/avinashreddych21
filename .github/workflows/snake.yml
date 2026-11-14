@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: avinashreddych21
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#ea580c&color_dots=#ebedf0,#fed7aa,#fdba74,#f97316,#c2410c
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f97316&color_dots=#1c1917,#44403c,#78350f,#c2410c,#f97316
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0284c7&color_dots=#ebedf0,#bae6fd,#7dd3fc,#38bdf8,#0284c7
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00d2ff&color_dots=#0a1124,#0c2d48,#145da0,#2e8bc0,#00d2ff
 
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
