@@ -49,10 +49,10 @@
 
 | Project | System Architecture & Capabilities | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **📚 Course Description Management System** | Console-based academic management tool engineered with C++ and Object-Based Education (OBE) framework for automated course outcome analysis | `C++` `OOP` `File I/O` | [Source ↗](https://github.com/avinashreddych21) |
-| **📊 Student Record Management System** | Academic grade analysis and student record tracking utility designed for efficient querying, record mutations, and relational validation | `C++` `DBMS` `Relational Logic` | [Source ↗](https://github.com/avinashreddych21) |
-| **⏰ Ananta — The Clock** | Interactive modern digital clock, precision timer, and productivity interface with fluid UI event synchronization and responsive CSS styling | `JavaScript` `HTML5` `CSS3` | [Source ↗](https://github.com/avinashreddych21/Ananta---The-Clock) &bull; [Demo ↗](https://github.com/avinashreddych21/Ananta---The-Clock) |
-| **🔄 Circular Queue Implementation** | Low-level queue management simulation tool demonstrating contiguous memory allocation, pointer arithmetic, and FIFO synchronization | `C` `Data Structures` `Algorithms` | [Source ↗](https://github.com/avinashreddych21) |
+| **🛒 ShopEZ E-Commerce Platform** | Full-scale e-commerce web platform engineered with reactive product catalogs, local storage cart states, and seamless checkout flows | `JavaScript` `HTML5` `CSS3` | [Repository ↗](https://github.com/avinashreddych21/ShopEZ-E-COMMERCE-PLATFORM) |
+| **📊 Student Record Management System** | Responsive academic platform featuring Chart.js analytics dashboard, CRUD student directory, automated CGPA calculations, section capacity checks, and Excel export | `JavaScript` `Tailwind CSS` `Chart.js` | [Repository ↗](https://github.com/avinashreddych21/SRMS-Student-Record-Management-System-Project) |
+| **⏰ Ananta — The Clock** | Interactive modern digital clock, precision scheduling timer, and productivity interface with fluid UI event synchronization | `Python` `JavaScript` `CSS3` | [Repository ↗](https://github.com/avinashreddych21/Ananta-The-Clock) |
+| **🔄 Circular Queue Simulation** | Interactive visualization for Linear & Circular Queues with real-time UI controls for Enqueue/Dequeue operations, dynamic index tracking, and C++ logic | `C++` `JavaScript` `Algorithms` | [Repository ↗](https://github.com/avinashreddych21/Circular-Queue-Data-Structure-Simulation) |
 
 <br/>
 
